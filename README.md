@@ -17,13 +17,12 @@
 ![Firebase](https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
 ![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 
+![](https://komarev.com/ghpvc/?username=emirhanzeyrekk)
 
 <details>
   <summary>More...</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhanzeyrekk&" alt="emirhanzeyrekk" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirhanzeyrekk&show_icons=true&locale=en" alt="emirhanzeyrekk" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhanzeyrekk&show_icons=true&locale=en&layout=compact" alt="emirhanzeyrekk" /></p>
-  
-  ![](https://komarev.com/ghpvc/?username=emirhanzeyrekk)
 </details>
 
