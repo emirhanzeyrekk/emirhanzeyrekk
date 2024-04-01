@@ -1,5 +1,5 @@
 <h1 align="center">Hi, It's Emirhan 👋</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">iOS Developer</h3>
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
