@@ -32,6 +32,7 @@
         <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>     
         <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
         <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width=50></a>
         <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width=50></a>
         <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width=50></a>
