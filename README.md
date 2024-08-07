@@ -1,5 +1,4 @@
 <h1 align="center">Hi everyone, my name is Emirhan</h1>
-<h3 align="center">iOS Developer</h3>
 
 -  **I love making something that can be shared with people.**
 
