@@ -1,4 +1,7 @@
-<h1 align="center">Hi everyone, my name is Emirhan</h1>
+<h1 align="center">Hi, I'm Emirhan Zeyrek 👋</h1>
+<h3 align="center">Computer Engineer & Software Developer</h3>
+
+- 🌱 I’m currently learning **Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData**
 
 <div align=center>
 <table>
