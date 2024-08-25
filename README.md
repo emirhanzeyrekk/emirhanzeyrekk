@@ -1,7 +1,5 @@
 <h1 align="center">Hi everyone, my name is Emirhan</h1>
 
-<h3 align="center">I love making something that can be shared with people.</h3>
-
 <div align=center>
 <table>
     <tr>
